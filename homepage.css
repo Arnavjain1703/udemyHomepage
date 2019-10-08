@@ -1,0 +1,576 @@
+@media only screen and (max-width: 1295px)
+{
+	.display-nav
+	{
+		display:none;
+	}
+
+
+
+	
+}
+
+
+.background-img
+{
+	background: url(https://i.udemycdn.com/notices/home_banner/image_responsive/f9cd7c14-72c2-48a4-908f-917ec4d2150f.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-width:100%;
+    height: 500px;
+
+
+}
+.form
+{
+	background-color: #D7DBDD ;
+	border-radius:3%;
+}
+.width
+{
+	width: 400px;
+	height: 40px;
+	border:solid 2px #D7DBDD ;
+	background-color: #D7DBDD ;
+
+}
+.button-background
+
+{
+	background-color: #D7DBDD ;
+	border:solid 2px #D7DBDD ;
+
+
+}
+
+.login ,.signup
+{
+   	/*background: red;*/
+	  margin:4px 2px;
+     border-radius: 5%;
+
+}
+.cart
+{
+	font-size: 30px; 
+	margin-right: 40px; 
+	border-left: solid 1px black;
+
+}
+.navbar-margin{
+	margin: 0px 50px; 
+}
+.login
+{
+   	border: solid 1px black; 
+}
+.signup
+{
+	background-color: #E74C3C;
+	border :solid 1px #E74C3C ; 
+}
+
+
+.navbar
+{
+	margin-bottom: 0px;
+
+}
+
+.udemy
+{
+	height: 30px;
+}
+.dropdown-toggle
+{
+    color: #D0D3D4;
+      
+}
+
+.heading
+{
+	padding-top: 20%;
+	padding-left: 15%;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+    font-size:50px; }
+.heading-2
+{
+	padding-left: 15%;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.search-style
+{
+	
+	padding-left:15%;
+}
+
+.input-style
+{
+	width: 100%;
+    height: 50px;
+	border: 0px ;
+}
+.para
+{
+	padding:0% 20%; 
+}
+.center
+{
+	text-align: center;
+	padding: 1%;
+    color: white;
+
+}
+.align
+{
+	text-align: center;
+	padding-top: 5%;
+	border-right:1px solid black;
+
+}
+
+
+
+#black-color
+{
+     
+	color: black; 
+}
+.instructions
+{
+	 background: linear-gradient(to right, #582959 , #F7416A);
+	height:86px;
+	color: white;
+
+}
+
+::placeholder {
+  font-size: 150%;
+  
+}
+
+.search-bar
+{
+	background: white;
+	border-radius:2%;
+}
+
+
+.icon
+{
+	height: 50px;
+	font-size: 150%;
+	color:#ED1F35;
+	border-radius: 4%;
+}
+.icon:hover
+{  
+	background:#ED1F35;
+	color: white;
+
+}
+
+.fa-search{ 
+	
+	 padding-top: 12px;
+}
+
+.heading-3
+{
+	font-family: 'Roboto', sans-serif;
+   font-weight:900;
+   font-size: 150%;
+
+}
+
+.heading-4
+{
+	padding-left: 10%;
+	font-size:110%; 
+
+}
+
+.heading-5
+{
+	font-family: 'Roboto', sans-serif;
+	font-size:200%;
+	font-weight: 600;
+	padding-bottom: 3%;
+
+
+}
+
+
+
+
+.company-row
+{
+	padding: 1% 10%;
+}
+
+.company-name
+{
+	font-family: 'Roboto', sans-serif;
+    text-align: center;
+	margin-top: 2%;
+	
+}
+
+.categories-name
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 150%
+
+
+}
+.categories-item
+{
+	 box-shadow: 1px 1px 2px 2px #D0D3D4   ;
+	height:60px;
+	padding: 3% 2%; 
+ 	margin-top:5%;
+   
+}
+
+.bestSellers
+{
+	background: orange;
+	padding: 3% 2%;
+	z-index: 1; 
+}
+
+
+.course-image
+{
+	width: 100%;
+	border-bottom: 1px solid #D0D3D4  ;
+}
+
+.course-price
+{
+	text-align: right;
+	padding-top: 2%;
+	padding-right: 6%;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+.course-item
+{
+
+	box-shadow: 1px 1px 2px 2px #D0D3D4  ;
+	width: 110%;
+}
+.categories-item:hover,.course-item:hover
+{
+   box-shadow: 1px 1px 4px 4px #D0D3D4   ;
+}
+.categories-icon
+{
+	font-size: 200%;
+}
+
+.comment-item
+{
+	padding:3%; 
+	background: white;
+	border-radius: 2%;
+}
+
+.comment-content
+{
+	padding:5% 3%;
+	font-size: 120%;
+	
+}
+
+
+.user-pic
+{
+	height: 70px;
+	width: 70px;
+	border-radius: 100%;
+	color: white;
+	background: #616A6B ; 
+	text-align: center;
+	padding-top:1%; 
+
+}
+ .user-name
+ {
+ 	padding-top: 5%; 
+ 	font-weight: 900;
+ }
+ .comment
+ {
+ 	padding-top:5%; 
+ }
+.margin
+{
+
+	padding-left: 5%;
+	padding-right:5%;
+	padding-top:2%;
+	padding-bottom: 2%;
+
+
+}
+.display
+{
+     color:white;	
+	font-size: 30px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+
+
+
+.special-icon
+{   
+	padding-top: 50px;
+	font-size: 30px;
+	color: white;
+    
+}
+
+.course-name
+{ 
+	padding-top: 8%;
+	padding-left: 5%;
+	padding-bottom: 3%
+	font-weight: 700;
+	font-size: 110%;
+}
+
+.teacher-name
+{
+	
+	padding:5% ; 
+}
+
+/*.course-shadow
+{
+	box-shadow: 1px 1px  2px black;
+	 height: 100px;
+	 background: blue;
+}*/
+
+.image
+{	width: 200px;
+
+}
+
+.wrong-price
+{
+	 text-decoration: line-through;
+	 margin-left: 80px;
+}
+
+.label
+{
+   height: 100px;	
+}
+
+.icon-2
+{
+	font-size: 250%;
+}
+
+.categories
+{
+	border-bottom: solid black 1px;
+
+}
+
+.jumbo,.jumbo-2
+{
+	background: #E5E8E8;
+	font-family: 'Roboto', sans-serif;
+
+}
+.item
+{
+	color: black;
+	font-family: 'Roboto', sans-serif;
+
+}
+.get-started
+{
+	height: 350px;
+	background: #273746; 
+	border-top:solid 7px red;
+
+}
+
+.button-style
+{
+	background: #E74C3C;
+    border-radius:5%;
+	padding:10px;
+	border: 3px solid  #E74C3C;
+	color: white;  
+
+}
+
+.button-style:hover ,.signup:hover
+{
+   background: #CB4335 ;
+   border-color:#CB4335 ;
+}
+
+.row-margin ,.margin-top
+{
+	margin-top: 10px;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 1199px) {
+  .heading , .heading-2{
+     font-size: 350%;
+     padding-left: 5%; 
+   }
+
+   .search-style
+   {
+   	font-size: 150%;
+  	padding:5% 10%;
+
+
+   }
+   .heading
+   {
+   	padding-top: 10%;
+   }
+
+
+
+   .input-style
+   {
+   	  height: 70px;
+   }
+
+   .instructions,.jumbo,.display,.special-icon
+   {
+   	  display: none;
+   }
+
+   .item
+   {
+   	font-size: 200%;
+   }
+
+   .course-item
+   {
+   	   padding:10%; 
+   }
+
+   .mediaquery 
+   {
+   	  font-size: 220%;
+   	  padding-top: 10%;
+   }
+   
+
+    .heading-5,.heading-7
+    {
+    	 font-size: 300%
+    }
+
+
+    .categories-item:hover,.course-item:hover
+{
+   box-shadow: 2px 2px 8px 8px #D0D3D4   ;
+}
+
+.comment-item{
+
+
+	margin: 3%  5%;
+ }
+
+ .user-name,.comment,.align,.para
+ {
+ 	font-size: 170%;
+ }
+
+
+.logo
+{
+    width: 50%; 
+}
+
+.course-name,.course-price,.teacher-name
+{
+   font-size: 200%;
+   font-weight: 600;
+}
+
+
+.categories-item
+{
+	height: 100px;
+}
+
+
+.categories-name,.categories-icon
+{
+  font-size: 300%;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
